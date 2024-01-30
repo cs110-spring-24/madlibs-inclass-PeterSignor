@@ -14,3 +14,5 @@ We will write a simple mad-libs program together in class today. After we work t
 ## Your turn
 
 Now that we've done the first task together, it's your turn to add to this. I want you to add 10 more inputs and update your story to use those inputs.
+
+
